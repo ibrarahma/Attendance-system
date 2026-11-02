@@ -1,0 +1,6 @@
+{
+  "name": "CR Attendance Management System",
+  "description": "Dedicated single-class attendance management platform for Class Representatives with Excel/CSV student import, dual actual and CR-prepared records, shortage detection, and official report generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
